@@ -1,0 +1,47 @@
+body
+{
+  color: cyan;
+  background: black;
+  font-family: 'Luckiest Guy', cursive;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 10px double cyan;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name1 ,#result_emotion_name2  
+{
+  color:gray;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+
+.heading{
+  font-size: larger;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
+
+label{
+  font-size: medium;
+  background-color: gray;
+  color: aqua;
+  padding: 6px;
+  border-radius: 10px;
+  font-family: 'Gochi Hand', cursive;
+}
+
+button{
+  font-family: 'Press Start 2P', cursive;
+}
